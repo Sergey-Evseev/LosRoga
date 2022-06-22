@@ -51,7 +51,7 @@ public:
     //элементам обоих базовых классов
     void DisplayInfo() {
         cout << "Name " << name << "\n";
-        cout << "Forma " << forma << "\n";
+        cout << "Forma " << forma << "\n"; 
         cout << "Color " << color << "\n";
         cout << "Wes rogov " << wes << "\n";
         cout << "Razmer kopyt " << razmer << "\n";
